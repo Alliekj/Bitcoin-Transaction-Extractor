@@ -1,0 +1,9 @@
+bitcoin-env/
+__pycache__/
+data/raw/
+data/processed/
+*.pyc
+*.pyo
+*.pyd
+.env
+

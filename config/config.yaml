@@ -1,0 +1,5 @@
+api:
+  base_url: "https://api.blockcypher.com/v1/btc/main/"
+  endpoint: "addrs/"
+  token: "b1d4adbde1ee44d4a47f9bf129248162"
+
