@@ -1,4 +1,4 @@
-# Bitcoin Transaction Extractor
+# Bitcoin Transaction Extractor (In Progress)
 
 ## Description
 This project is designed to extract Bitcoin transactions from the blockchain. The project uses Python scripts to interact with blockchain APIs, retrieve transaction data, and process it for further analysis. The aim is to provide a tool that can be used to gather detailed information about Bitcoin transactions for research, analytics, or other purposes.
